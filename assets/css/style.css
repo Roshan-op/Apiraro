@@ -1335,5 +1335,10 @@ textarea.input-field {
    */
 
   .about-banner { max-width: 450px; }
-
+/**
+  * Translator
+  */
+  .google_translate_element{
+     align-items: center
+  }
 }
